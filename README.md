@@ -1,7 +1,7 @@
 # School_District_Analysis
 Analysis of school district grades using Python, Pandas and Jupyter Notebook to perform efficiently. 
 
-##Project Overview
+## Project Overview
 Deliverables requested for the analysis of the school district: 
 - A high-level snapshot of the district's key metrics, presented in a table format
 - An overview of the key metrics for each school, presented in a table format
