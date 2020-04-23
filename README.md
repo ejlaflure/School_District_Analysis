@@ -12,3 +12,9 @@ Deliverables requested for the analysis of the school district:
   - School performance based on the budget per student
   - School performance based on the school size 
   - School performance based on the type of school
+
+## Project Summary
+
+## Challenge Overview
+
+## Challenge Summary
