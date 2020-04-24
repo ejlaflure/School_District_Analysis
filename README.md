@@ -1,5 +1,5 @@
 # School_District_Analysis
-Analysis of school district grades using Python, Pandas and Jupyter Notebook to perform efficiently. 
+Analysis of school district grades using Python, Pandas and Jupyter Notebook in order to organize the data more efficiently. 
 
 ## Project Overview
 Deliverables requested for the analysis of the school district: 
