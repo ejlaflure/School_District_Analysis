@@ -13,17 +13,22 @@ Deliverables requested for the analysis of the school district:
 Tables presenting metrics for: 
 - Top 5 and bottom 5 performing schools, based on the overall passing rate
   - The average math score received by students in each grade level at each school
-  ![The average math score received by students in each grade level at top schools](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/School%20performance%20based%20on%20the%20budget%20per%20student.PNG)
-  ![The average math score received by students in each grade level at bottom schools](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/School%20performance%20based%20on%20the%20school%20size.PNG)
+    - Top 5
+  ![The average math score received by students in each grade level at top schools](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/The%20average%20math%20score%20received%20by%20students%20in%20each%20grade%20level%20at%20top%20schools.PNG)
+    - Bottom 5
+  ![The average math score received by students in each grade level at bottom schools](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/The%20average%20math%20score%20received%20by%20students%20in%20each%20grade%20level%20at%20bottom%20schools.PNG)
   - The average reading score received by students in each grade level at each school
-  
+    - Top 5
+  ![The average reading score received by students in each grade level at top schools](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/The%20average%20reading%20score%20received%20by%20students%20in%20each%20grade%20level%20at%20top%20schools.PNG)
+    - Bottom 5
+  ![The average reading score received by students in each grade level at bottom schools](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/The%20average%20reading%20score%20received%20by%20students%20in%20each%20grade%20level%20at%20bottom%20schools.PNG)
 - School Performance
   - School performance based on the budget per student
-    
+  ![School performance based on the budget per student](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/School%20performance%20based%20on%20the%20budget%20per%20student.PNG)  
   - School performance based on the school size 
-    
+  ![School performance based on the school size](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/School%20performance%20based%20on%20the%20school%20size.PNG)  
   - School performance based on the type of school
-    
+  ![School performance based on the type of school](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/School%20performance%20based%20on%20the%20type%20of%20school.PNG)  
 
 ## Challenge Overview
 The grades of the ninth graders at Thomas High School have been changed. After assessing the situation with the school superintendent and Maria, you decide the best approach is to:
