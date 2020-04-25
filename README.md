@@ -16,23 +16,23 @@ Deliverables requested for the analysis of the school district:
 
 ## Project Summary
 Tables presenting metrics for: 
-- Top 5 performing schools, based on the overall passing rate
-![Top 5 performing schools, based on the overall passing rate](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/Top%5%20performing%20schools%20,%20based%20on%20the%20overall%20passing%20rate.PNG)
-- Bottom 5 performing schools, based on the overall passing rate
-![Bottom 5 performing schools, based on the overall passing rate](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/Bottom%5%20performing%20schools%20,%20based%20on%20the%20overall%20passing%20rate.PNG)
-- Top 5 average math score received by students in each grade level at each school
+- Top 5 performing schools, based on the overall passing rate 
+![Top 5 performing schools, based on the overall passing rate](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/Top%205%20performing%20schools%2C%20based%20on%20the%20overall%20passing%20rate.PNG)
+- Bottom 5 performing schools, based on the overall passing rate 
+![Bottom 5 performing schools, based on the overall passing rate](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/Bottom%205%20performing%20schools%2C%20based%20on%20the%20overall%20passing%20rate.PNG)
+- Top 5 average math score received by students in each grade level at each school 
 ![The average math score received by students in each grade level at top schools](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/The%20average%20math%20score%20received%20by%20students%20in%20each%20grade%20level%20at%20top%20schools.PNG)
-- Bottom 5 average math score received by students in each grade level at each school
+- Bottom 5 average math score received by students in each grade level at each school 
 ![The average math score received by students in each grade level at bottom schools](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/The%20average%20math%20score%20received%20by%20students%20in%20each%20grade%20level%20at%20bottom%20schools.PNG)
-- Top 5 average reading score received by students in each grade level at each school
+- Top 5 average reading score received by students in each grade level at each school 
 ![The average reading score received by students in each grade level at top schools](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/The%20average%20reading%20score%20received%20by%20students%20in%20each%20grade%20level%20at%20top%20schools.PNG)
-- Bottom 5 average reading score received by students in each grade level at each school
+- Bottom 5 average reading score received by students in each grade level at each school 
 ![The average reading score received by students in each grade level at bottom schools](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/The%20average%20reading%20score%20received%20by%20students%20in%20each%20grade%20level%20at%20bottom%20schools.PNG)
-- School performance based on the budget per student
+- School performance based on the budget per student 
 ![School performance based on the budget per student](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/School%20performance%20based%20on%20the%20budget%20per%20student.PNG)  
 - School performance based on the school size 
 ![School performance based on the school size](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/School%20performance%20based%20on%20the%20school%20size.PNG)  
-- School performance based on the type of school
+- School performance based on the type of school 
 ![School performance based on the type of school](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/School%20performance%20based%20on%20the%20type%20of%20school.PNG)  
 
 ## Challenge Overview
