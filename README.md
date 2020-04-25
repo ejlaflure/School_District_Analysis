@@ -5,20 +5,25 @@ Analysis of school district grades using Python, Pandas and Jupyter Notebook in 
 Deliverables requested for the analysis of the school district: 
 - A high-level snapshot of the district's key metrics, presented in a table format
 - An overview of the key metrics for each school, presented in a table format
-- Tables presenting metrics for top 5 and bottom 5 performing schools, based on the overall passing rate
+- Tables presenting metrics for: 
+  - Top 5 and bottom 5 performing schools, based on the overall passing rate 
+  - School Performance
 
 ## Project Summary
-Tables presenting metrics for top 5 and bottom 5 performing schools, based on the overall passing rate:
+Tables presenting metrics for: 
+- Top 5 and bottom 5 performing schools, based on the overall passing rate
   - The average math score received by students in each grade level at each school
-  
+  ![The average math score received by students in each grade level at top schools](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/School%20performance%20based%20on%20the%20budget%20per%20student.PNG)
+  ![The average math score received by students in each grade level at bottom schools](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/School%20performance%20based%20on%20the%20school%20size.PNG)
   - The average reading score received by students in each grade level at each school
   
+- School Performance
   - School performance based on the budget per student
-  
+    
   - School performance based on the school size 
-  
+    
   - School performance based on the type of school
-  
+    
 
 ## Challenge Overview
 The grades of the ninth graders at Thomas High School have been changed. After assessing the situation with the school superintendent and Maria, you decide the best approach is to:
