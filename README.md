@@ -65,14 +65,14 @@ Post grade correction analysis:
 - Effect on District Summary
   - Looking at a broad summary of data like this, only a slight change is noticeable.  The average math score went down 0.1, while all three percentages went down 1%. 
 - Effect on School Summary
-  - 
+  - Since this table shows all the schools separately, the change from the score correction is much more dramatic. The average math score was only lowered by 0.06 and the reading score actually increased by 0.05. Since these are averages, the effected scores were removed from this calculation. This is why the averages are only effected very slightly. The passing percentages on the other hand are greatly affected. The reason for this is that every single ninth grader in Thomas High School has now failed reading and math. The overall passing percentage of the school decreased by 25.87%, while the passing percentages for math and reading decreased by 26.36% in math and 27.65% in reading. This lines up with about a fourth of the student population now failing because the whole grade’s scores are no longer valid. 
 - Thomas High School’s performance relative to the other schools in district
-  - 
+  - Thomas High School’s performance in comparison to the other schools in the district was greatly affected, by the change in scores. Surprisingly, even with a whole grade failing, Thomas High School is not the worst performing school in the district. Thomas High School went from being the second best performing school in the district to being ranked eighth among the 15 schools. 
 - Effect on Math and Reading Scores by Grade
-  - 
+  - Since only the ninth grade scores at Thomas High School were changed, the changes that occurred was Thomas High School 9th grade cell changed to NaN in both the math scores by grade table and reading scores by grade table.
 - Effect on Scores by School Spending
-  - 
+  - Since Thomas High School is the $630-644 range of spending, only this budget range was affected by the change in data. The average math and reading scores were not affected by the change in data similar to those columns when the data was distributed by schools. Passing percentages, on the other hand, was greatly affected for this spending range. The $645-675 spending range still performs worse in Math and overall, but in reading the $630-644 spending range is now the worst performer. All three percentages is the spending bracket decreased by about 7% from the change. 
 - Effect on Scores by School Size
-  - 
+  - Thomas High School is a medium sized school, so only this size of school was affected by the change in data. Just like with the school spending distribution, the average scores in the school size distribution was not affected by the change. The passing percentages for medium schools decreased by 6%. This takes medium schools from being the best performer out of the three school sizes. Small schools now perform the best while large schools still perform the worst.
 - Effect on Scores by School Type
-  - 
+  - Similar to School spending and size, since Thomas High School is a Charter school, that type of school was affected. Just like with school spending and size, the average scores were not affected by the change in data. Percent passing in math and reading decreased by 4% while overall decreased by 3%. Charter school, even with this change, still perform vastly better then District schools. 
