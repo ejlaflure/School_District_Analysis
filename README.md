@@ -20,7 +20,7 @@ Deliverables requested for the analysis of the school district:
 ![District's key metrics](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/District's%20key%20metrics.PNG)
 - Key metrics for each school
 
-![Key metrics for each school](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/Key%20metrics%20for%20each%20school.PNG)
+![Key metrics for each school expanded](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/Key%20metrics%20for%20each%20school%20expanded.PNG)
 - Top 5 performing schools, based on the overall passing rate 
 
 ![Top 5 performing schools, based on the overall passing rate](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/Top%205%20performing%20schools%2C%20based%20on%20the%20overall%20passing%20rate.PNG)
@@ -60,21 +60,19 @@ The goals of this challenge are for you to:
 - Explain how your PyCitySchools analysis changes after you handle the incorrect data.  
 
 ## Challenge Summary
-Recreate the district and school summary DataFrames.
-- How is the district summary affected?
+Post grade correction analysis:
 
-- How is the school summary affected?
-
-Recalculate the high- and low-performing schools.
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
-
-Recalculate the scores by grade, scores by school spending, scores by school size, and scores by school type.
-- How does replacing the ninth-grade scores affect the following?
-  - Math and Reading Scores by Grade
-  
-  - Scores by School Spending
-  
-  - Scores by School Size
-  
-  - Scores by School Type
-  
+- Effect on District Summary
+  - Looking at a broad summary of data like this, only a slight change is noticeable.  The average math score went down 0.1, while all three percentages went down 1%. 
+- Effect on School Summary
+  - 
+- Thomas High School’s performance relative to the other schools in district
+  - 
+- Effect on Math and Reading Scores by Grade
+  - 
+- Effect on Scores by School Spending
+  - 
+- Effect on Scores by School Size
+  - 
+- Effect on Scores by School Type
+  - 
