@@ -15,7 +15,12 @@ Deliverables requested for the analysis of the school district:
     - Type of school
 
 ## Project Summary
-Tables presenting metrics for: 
+- District's key metrics
+
+![District's key metrics](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/District's%20key%20metrics.PNG)
+- Key metrics for each school
+
+![Key metrics for each school](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/Key%20metrics%20for%20each%20school.PNG)
 - Top 5 performing schools, based on the overall passing rate 
 
 ![Top 5 performing schools, based on the overall passing rate](https://github.com/ejlaflure/School_District_Analysis/blob/master/project_tables/Top%205%20performing%20schools%2C%20based%20on%20the%20overall%20passing%20rate.PNG)
